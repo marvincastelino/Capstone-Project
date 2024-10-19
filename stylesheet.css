@@ -1,0 +1,20 @@
+html{
+background-color: #dfdede;
+margin:0px;
+padding:10px;
+font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #c2c1c1;
+    margin:0px;
+    padding:20px;
+}
+ 
+h3{
+    border-bottom: 1px dotted black;
+    color:black;
+}
+
+ul{
+    width:500px;
+}
