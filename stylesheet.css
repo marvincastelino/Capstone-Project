@@ -15,4 +15,23 @@ h3 {
     border-bottom: 1px dotted black;
     color: rgb(8, 87, 171);
 }
+.main{
+    width:1000px;
+    display:inline-block;
+}
 
+.photo{
+    /* float:right; */
+    height:150px;
+}
+
+div .photo{
+    width: auto;
+    
+}
+
+.heading{
+    display:block;
+    width:50%;
+    flex:2
+}
