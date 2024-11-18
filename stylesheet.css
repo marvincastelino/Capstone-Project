@@ -11,27 +11,32 @@ body {
     padding: 20px;
 }
 
+
+
 h3 {
     border-bottom: 1px dotted black;
     color: rgb(8, 87, 171);
 }
-.main{
-    width:1000px;
-    display:inline-block;
-}
+
+    
 
 .photo{
-    /* float:right; */
+    float:right;
     height:150px;
 }
 
 div .photo{
+
     width: auto;
+    border-radius: 5px;
     
 }
 
 .heading{
-    display:block;
-    width:50%;
-    flex:2
+    width:50%;   
+}
+h1,h2{
+    
+    display:flex;
+    gap:10px;
 }
